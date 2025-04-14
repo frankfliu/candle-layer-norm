@@ -2,7 +2,7 @@
 name = "candle-layer-norm"
 version = "0.0.1"
 edition = "2021"
-
+license = "bsd-3"
 description = "Layer Norm layer for the candle ML framework."
 
 [dependencies]
